@@ -4,7 +4,7 @@ namespace Hongli\Hasher;
 
 use Illuminate\Support\ServiceProvider;
 
-class MD5HasherProvider extends ServiceProvider
+class MD5HasherServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
