@@ -1,0 +1,18 @@
+{
+    "name": "hongli/hasher",
+    "description": "Md5 support in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "串猪神",
+            "email": "chuanzhushen@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hongli\\Hasher\\": "src/"
+        }
+    }
+}
